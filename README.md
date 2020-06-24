@@ -14,8 +14,10 @@ npm run serve
    3. vue add router
    4. vue add vuex
 4. semantic ui 적용
+
    1. index.html에 다음 명령어 붙여넣기
-      - <link
-              rel="stylesheet"
-              href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css"
-            />
+
+      - ```
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css"/>
+
+        ```

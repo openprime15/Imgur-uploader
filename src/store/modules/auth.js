@@ -23,6 +23,7 @@ const actions = {
     // 인자에 {commit} 을 해서 비구조화 할당을 함
     commit("setToken", null);
     cookies.remove("imgur_token");
+    location.pathname = "/";
   },
   login() {
     const ROOT_URL = "https://api.imgur.com";

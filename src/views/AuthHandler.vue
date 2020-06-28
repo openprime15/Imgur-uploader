@@ -11,7 +11,6 @@ export default {
     this.finalizeLogin(location.hash);
   }
 };
-console.log(location.hash);
 </script>
 
 <style>
